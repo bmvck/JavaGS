@@ -1,3 +1,15 @@
+A API fica acessível em:
+
+```text
+http://9.169.156.28:8080
+```
+
+Swagger configurado no projeto em:
+
+```text
+http://9.169.156.28:8080/swagger-ui.html
+```
+
 # Sistema de Gestão de Ativos - API REST
 
 API REST desenvolvida em Spring Boot para gerenciamento de ativos, colaboradores, empréstimos, manutenções e dispositivos IoT.
